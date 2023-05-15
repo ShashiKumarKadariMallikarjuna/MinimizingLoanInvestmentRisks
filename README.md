@@ -1,1 +1,1 @@
-# MinimizingLoanInvestmentRisks
+# Minimizing Loan Investment Risks
