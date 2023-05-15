@@ -9,6 +9,8 @@ The dataset contains information like loan taken date, loan amount, loan term, i
 SJSU google survey was also performed to understand the interest rates that the respondents are paying to understand the competition for Lending Club.
 The links to the cleansed and the raw datasets can be found in the Dataset links file. 
 
+Project Demo video can be found on Youtube:  https://youtu.be/xBtQMMiBKbM
+
 References:
 
 SAYAH, F. (2023, February). Lending Club Dataset, Version 1. Retrieved March 20, 2023 from https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction/input.
