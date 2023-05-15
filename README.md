@@ -5,6 +5,7 @@ Random Forest Classifier. The links to the cleansed and the raw datasets can be 
 The link to the Kaggle dataset: https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction/input.
 
 SJSU google survey was also performed to understand the interest rates that the respondents are paying to understand the competition for Lending Club.
+The links to the cleansed and the raw datasets can be found in the Dataset links file. 
 
 References:
 SAYAH, F. (2023, February). Lending Club Dataset, Version 1. Retrieved March 20, 2023 from https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction/input.
