@@ -8,4 +8,5 @@ SJSU google survey was also performed to understand the interest rates that the 
 The links to the cleansed and the raw datasets can be found in the Dataset links file. 
 
 References:
+
 SAYAH, F. (2023, February). Lending Club Dataset, Version 1. Retrieved March 20, 2023 from https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction/input.
